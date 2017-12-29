@@ -1,0 +1,10 @@
+{
+  "name": "yarn_test",
+  "version": "1.0.0",
+  "description": "A project for learning yarn. :)",
+  "main": "index.js",
+  "repository": "https://github.com/lfhfhvu/yarn_test",
+  "author": "HuaiShao Chang <lfhfhvu@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
